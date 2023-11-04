@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/vjLQYNp/1.jpg",
+      "autor": "John Doe",
+      "title": "Introduction to Python Programming",
+      "autor-img": "https://i.ibb.co/2sgX9yc/boy1.png",
+      "posted-date": "2023-11-04T23:31:08Z",
+      "reading-time": "5",
+      "hastags": ["#programming", "#python", "#machinelearning"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/SR09sdx/2.png",
+      "autor": "Jane Doe",
+      "title": "Easy and Delicious Recipes for Beginners",
+      "autor-img": "https://i.ibb.co/zRDm6cK/boy2.jpg",
+      "posted-date": "2023-11-04T23:32:08Z",
+      "reading-time": "10",
+      "hastags": ["#cooking", "#recipes", "#foodphotography"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/p3z20Ff/3.png",
+      "autor": "Peter Parker",
+      "title": "The Best Travel Destinations for 2023",
+      "autor-img": "https://i.ibb.co/MfxdHRw/girl1.jpg",
+      "posted-date": "2023-11-04T23:33:08Z",
+      "reading-time": "15",
+      "hastags": ["#travel", "#photography", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/C0cY8hP/4.jpg",
+      "autor": "Mary Jane Watson",
+      "title": "Must-Read Books for Every Bookworm",
+      "autor-img": "https://i.ibb.co/cDm9NWK/girl2.jpg",
+      "posted-date": "2023-11-04T23:34:08Z",
+      "reading-time": "20",
+      "hastags": ["#books", "#reading", "#literature"]
+    }
+  ]
