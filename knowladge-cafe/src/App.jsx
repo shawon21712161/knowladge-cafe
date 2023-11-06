@@ -15,10 +15,16 @@ const handleAddToBookmark = blog=>{
   setBookmarks(newBookmarks)
 }
 
-const handleMarkRead = time =>{
+const handleMarkRead = (id,time) =>{
   // console.log('Marking As Time',time);
   const newReadingTime = readingTime + time;
   setreadingTime(newReadingTime);
+
+  // remove the read blog.
+  // console.log('remove bookmark',id);
+
+  const reaminingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+  setBookmarks(reaminingBookmarks)
 }
 
   return (
